@@ -8,7 +8,7 @@ Hello, I am a Full-Stack Developer, currently working with JavaScript, Node.js, 
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/L-Salamancaa/">![Instagram](https://img.shields.io/badge/Lsalamanca-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.instagram.com/L.Salamancaa/">![Instagram](https://img.shields.io/badge/L.salamancaa-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/luis-fernando-salamanca-036777339/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a>![Gmail](https://img.shields.io/badge/lfersalamanca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
