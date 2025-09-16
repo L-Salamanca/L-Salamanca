@@ -3,7 +3,7 @@
 # Luis Fernando Salamanca
   
 ## About
-Hello, I am a Full-Stack Developer, currently working with JavaScript, Node.js, and React. I am exploring backend development while continuously improving my skills in software engineering. Passionate about technology, problem-solving, and building impactful projects.
+Hello, I am a Full-Stack Developer, currently working with Pythom, JavaScript, Node.js, and React. I am exploring backend development while continuously improving my skills in software engineering. Passionate about technology, problem-solving, and building impactful projects.
 
 -------------------
 
